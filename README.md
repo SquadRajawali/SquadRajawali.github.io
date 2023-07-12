@@ -44,7 +44,7 @@
     <div class="container">
          <h2>Our Family ally</h2>
       <div class="menu-item">
-        <img src="https://i.postimg.cc/Njmz7cFd/SQUAD-GARUDA-92-20230712-151012.jpg" alt="Squad Garuda">
+        <img src="https://i.postimg.cc/7PtJrq2h/SQUAD-GARUDA-92-20230712-151012.jpg" alt="Squad Garuda">
         <h3>Garuda Squad</h3>
         <p>The Garuda Squad is the main alliance of the Rajawali Squad. this alliance is the main stronghold for Indonesian players. So all the families are giving their best for this alliance.</p>
       </div>
