@@ -1,6 +1,6 @@
 <!-- Created by Geyusa -->
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Squad Rajawali</title>
