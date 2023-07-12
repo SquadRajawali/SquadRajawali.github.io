@@ -13,7 +13,6 @@
       <img src="https://i.postimg.cc/9M2pfhj8/Picsart-23-06-18-22-31-42-287-1.png" alt="Squad Rajawali Logo">
       <h1>Welcome to Rajawali Squad</h1>
     </div>
-    
     <nav>
       <ul>
         <li><a href="#about">About</a></li>
@@ -29,7 +28,7 @@
       <h2>Kingdom 3192</h2>
       <p>Focus to KvK and Indonesian ally</p> 
       
-      <a href="#menu" class="btn">View Menu</a>
+   <a href="#menu" class="btn">View Menu</a>
     </div>
   </section>
   
@@ -40,7 +39,7 @@
       <p>Owned and operated by <b>ᵏᴾYukimura</b>, who is ambitious and passionate about his members, we strive to provide our members with an unforgettable gaming experience..</p> <br />
       <p>At Rajawali Squad, we pride ourselves on getting the best alliance family from all over the kingdoms. Our skilled administrators are active at all times so that each of our members is not alone, ensuring members get a safe and comfortable playing experience.</p>
     
-    </div>
+   </div>
   </section>
   
   <section id="menu">
@@ -85,7 +84,7 @@
     </div>
   </section>
   
-    <a href="#btt" class="back-to-top">Back to Top</a>
+   <a href="#btt" class="back-to-top">Back to Top</a>
 
   
   <footer>
