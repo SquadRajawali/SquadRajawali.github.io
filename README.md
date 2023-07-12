@@ -1,9 +1,7 @@
 <!-- Created by Geyusa -->
-
-
 <html>
 <head>
-  <title>Squad Rajawali</title>
+  
   <link rel="stylesheet" type="text/css" href="style7.css">
 </head>
 <body>
